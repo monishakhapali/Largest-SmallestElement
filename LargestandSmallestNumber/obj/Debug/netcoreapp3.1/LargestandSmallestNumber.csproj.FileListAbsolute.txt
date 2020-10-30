@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\bin\Debug\netcoreapp3.1\LargestandSmallestNumber.exe
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\bin\Debug\netcoreapp3.1\LargestandSmallestNumber.deps.json
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\bin\Debug\netcoreapp3.1\LargestandSmallestNumber.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\bin\Debug\netcoreapp3.1\LargestandSmallestNumber.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\bin\Debug\netcoreapp3.1\LargestandSmallestNumber.dll
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\bin\Debug\netcoreapp3.1\LargestandSmallestNumber.pdb
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.dll
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.pdb
+C:\Users\monisha.khapali\source\repos\LargestandSmallestNumber\LargestandSmallestNumber\obj\Debug\netcoreapp3.1\LargestandSmallestNumber.genruntimeconfig.cache
